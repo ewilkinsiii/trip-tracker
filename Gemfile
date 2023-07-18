@@ -5,6 +5,7 @@ ruby File.read('.ruby-version').strip
 
 gem "rails", "~> 7.0.6"
 
+gem 'devise', '~> 4.9', '>= 4.9.2'
 gem 'draper', '~> 4.0', '>= 4.0.2'
 gem "cssbundling-rails"
 gem "jbuilder"
