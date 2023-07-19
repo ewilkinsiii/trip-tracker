@@ -8,8 +8,10 @@ gem "rails", "~> 7.0.6"
 gem 'devise', '~> 4.9', '>= 4.9.2'
 gem 'draper', '~> 4.0', '>= 4.0.2'
 gem "cssbundling-rails"
+gem 'friendly_id', '~> 5.5'
 gem "jbuilder"
 gem "jsbundling-rails"
+gem 'petergate', '~> 3.0'
 gem "pg", "~> 1.1"
 gem "puma", "~> 5.0"
 gem "redis", "~> 4.0"
